@@ -243,8 +243,8 @@ importers:
         specifier: ^13.9.5
         version: link:../polaris-react
       '@types/is-git-clean':
-        specifier: ^1.1.0
-        version: 1.1.0
+        specifier: ^1.1.2
+        version: 1.1.2
       '@types/jscodeshift':
         specifier: ^0.11.5
         version: 0.11.5
@@ -7806,6 +7806,10 @@ packages:
     resolution: {integrity: sha512-w28IoSUCJpidD/TGviZwwMJckNESJZXFu7NBZ5YJ4mEUnNraUn9Pm8HSZm/jDF1pDWYKspWE7oVphigUPRakIQ==}
     dev: true
 
+  /@types/estree@1.0.7:
+    resolution: {integrity: sha512-w28IoSUCJpidD/TGviZwwMJckNESJZXFu7NBZ5YJ4mEUnNraUn9Pm8HSZm/jDF1pDWYKspWE7oVphigUPRakIQ==}
+    dev: true
+
   /@types/express-serve-static-core@4.17.41:
     resolution: {integrity: sha512-OaJ7XLaelTgrvlZD8/aa0vvvxZdUmlCn6MtWeB7TkiKW70BQLc9XEPpDLPdbo52ZhXUCrznlWdCHWxJWtdyajA==}
     dependencies:
@@ -7871,8 +7875,8 @@ packages:
       '@types/through': 0.0.30
     dev: true
 
-  /@types/is-git-clean@1.1.0:
-    resolution: {integrity: sha512-5LLlN3nkhSkAQVJ1birvnykwg9Xljb/x/yHWP6zeHmswyn6bwdd2GRuW3Y87TNdIqJOqhm7BfPtKPKMqKcn4Sg==}
+  /@types/is-git-clean@1.1.2:
+    resolution: {integrity: sha512-ywY0MJ93JWjzkOFdzvCn18D/xIwaRFYpQSmQi1+58uOuyG9Lurh8PqdTZBQZOpgvTRp9YG+m71/L7Bg+HuSpag==}
     dev: true
 
   /@types/istanbul-lib-coverage@2.0.6:
